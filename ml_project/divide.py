@@ -2,7 +2,7 @@ def division(a, b):
     a = float(a)
     b=float(b)
     print(a / b)
-    print("division now is different")
+    print("this is a division")
 
 
 
