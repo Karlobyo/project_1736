@@ -1,8 +1,8 @@
 def division(a, b):
     a = float(a)
     b=float(b)
-    print(a + b)
-    print("division now is different")
+    print(a / b)
+    print("this is a division")
 
 
 def mult(a, b):
