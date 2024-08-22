@@ -8,8 +8,8 @@ def division(a, b):
 def mult(a, b):
     print(a*b)
 
-def this_func(a, b):
-    print(a+ b / a)
+def this_function_has_to(a, b):
+    print(a + b / a * b)
 
 if __name__=='__main__':
     division(3., 1.)
