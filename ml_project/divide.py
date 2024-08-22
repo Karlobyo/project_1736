@@ -7,6 +7,7 @@ def division(a, b):
 
 def mult(a, b):
     print(a*b)
+    print("this is a mult")
 
 
 if __name__=='__main__':
